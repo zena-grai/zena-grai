@@ -16,11 +16,14 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zena-grai&theme=dark&background=000000)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zena-grai&show_icons=true&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zena-grai&theme=dark&background=000000" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zena-grai&show_icons=true&theme=transparent" />
+</a>
 
 
-
-<a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zena-grai&hide_progress=false)</a>
 
 
 
