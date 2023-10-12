@@ -17,11 +17,15 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zena-grai&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zena-grai&hide_progress=false)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zena-grai&show_icons=true&theme=transparent)
+
+
+<a align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zena-grai&hide_progress=false)</a>
+
+
+
+
+
 
 <!--
 **zena-grai/zena-grai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
