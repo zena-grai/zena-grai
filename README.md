@@ -17,13 +17,11 @@
 
 ### :fire: My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zena-grai&theme=dark&background=000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zena-grai&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
 
 
 
