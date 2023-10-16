@@ -4,6 +4,9 @@
 <div id="header_2" align="center">
   <img src="https://komarev.com/ghpvc/?username=zena-grai&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="header_3" align="center">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+</div>
 
 
 ### :fire: My Stats :
