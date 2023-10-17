@@ -7,12 +7,19 @@
 
 
 ### :fire: My Stats :
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=zena-grai&theme=transparent" />
+<a href="#">
+  <picture align="center">
+   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zena-grai&show_icons=true&rank_icon=github&theme=transparent">
+   <img height="200px" alt="light mode stats" src="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=default">
+  </picture>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Albedo-13&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark"/>
+<a href="#">
+  <picture align="center">
+   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=github_dark&card_width=250">
+   <img height="200px" alt="light mode langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=default&card_width=250">
+  </picture>
 </a>
+
 
 
 
